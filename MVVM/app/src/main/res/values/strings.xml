@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MVVM</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="message">Ainda não é cadastrado? Cadastre-se!</string>
+    <string name="support">Esqueceu sua senha?</string>
 </resources>
