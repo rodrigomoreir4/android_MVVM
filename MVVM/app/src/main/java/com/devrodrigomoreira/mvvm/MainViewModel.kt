@@ -7,13 +7,14 @@ import androidx.lifecycle.ViewModel
 class MainViewModel : ViewModel() {
 
     private var login = MutableLiveData<Boolean>()
+    private val personRepository = PersonRepository()
 
     fun login(): LiveData<Boolean> {
         return login
     }
 
     fun doLogin(email: String, password: String) {
-        // LOGICA
+        login.value = personRepository.login(email, password)
     }
 
 }
