@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="message">Not registered yet? Sign up!</string>
+    <string name="support">Forgot your password?</string>
+    <string name="success">SUCCESS</string>
+    <string name="failure">FAILURE</string>
+
+</resources>
