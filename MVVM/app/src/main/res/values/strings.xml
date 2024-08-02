@@ -5,4 +5,7 @@
     <string name="login">Login</string>
     <string name="message">Ainda não é cadastrado? Cadastre-se!</string>
     <string name="support">Esqueceu sua senha?</string>
+    <string name="success">SUCESSO</string>
+    <string name="failure">FALHA</string>
+
 </resources>
